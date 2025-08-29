@@ -13,9 +13,7 @@ To simulate a natural-language interview that explains the project findings usin
 ## 📁 Files in this Repo
 
 - `deep_fake_script.txt`: Final interview script
-- `interview_prompts.md`: (Optional) LLM prompt log used to help generate the interview
-- `tools_tested.md`: Notes on tools tested for voice/video generation
-- `final_output.mp4` or `final_output.mp3`: AI-generated interview output
+- `final_output.mp4` -> `AudioData_Insights_(Beyond_Basketball_Scores).m4a`: AI-generated interview output
 - `README.md`: This file
 
 ---
