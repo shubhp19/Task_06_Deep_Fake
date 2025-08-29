@@ -1,0 +1,43 @@
+🎤 Script: AI Interview on Sports Stats Project (Task 06)
+
+[Interviewer]:
+Hey there! I heard you’ve been working on some sports data analysis. Can you tell us what the project was all about?
+
+[You]:
+Yeah, sure! I analyzed data from the Syracuse Men’s Basketball 2024–2025 season. The idea was to see how well AI could understand structured data, like player stats, and answer questions in plain language.
+
+[Interviewer]:
+Interesting! What kind of data were you looking at?
+
+[You]:
+We had season-level stats for 16 players—things like points, assists, rebounds, minutes played, field goal percentage, and so on. I cleaned the data in Python and also built some custom metrics.
+
+[Interviewer]:
+Custom metrics? What do you mean?
+
+[You]:
+I created a player impact score using a simple formula: Points + Assists + Rebounds. It helped identify not just who scored the most, but who contributed overall. I also filtered out bench players and visualized the top scorers with bar charts.
+
+[Interviewer]:
+So where does AI come in?
+
+[You]:
+I used ChatGPT-4 to answer some natural language questions based on the data—like “Who is the top scorer?” or “Who’s the most consistent performer?” Then I validated the AI’s answers using Python to see how accurate it was.
+
+[Interviewer]:
+Nice! How did the AI do?
+
+[You]:
+Honestly, it did pretty well. It got all the numeric questions right, even handled my custom formula and chart requests. The consistency question was more subjective, but still reasonable.
+
+[Interviewer]:
+What did you learn from doing this?
+
+[You]:
+Definitely how to combine code and AI in meaningful ways. Writing the prompts clearly made a huge difference, and I learned that even small data import issues—like Excel formatting errors—can throw things off if you don’t clean them properly.
+
+[Interviewer]:
+Sounds like you picked up a bunch of skills. Thanks for sharing!
+
+[You]:
+Thanks! It was a fun project and a cool way to mix Python, AI, and sports analytics.
