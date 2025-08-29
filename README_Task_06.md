@@ -23,7 +23,7 @@ To simulate a natural-language interview that explains the project findings usin
 ## 🛠 Tools Used
 
 - **LLM**: ChatGPT-4 for generating interview script and prompts
-- **Voice/Video Generation**: (e.g., HeyGen, ElevenLabs, D-ID, Synthesia, PlayHT, Murf)
+- **Voice/Video Generation**: (NotebookLM )
 
 ---
 
